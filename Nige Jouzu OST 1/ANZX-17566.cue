@@ -1,0 +1,270 @@
+REM GENRE Soundtrack
+REM DATE 2024
+REM DISCID 0D0F2D21
+REM COMMENT "ExactAudioCopy v1.6"
+PERFORMER "GEMBI、立山秋航"
+TITLE "逃げ上手の若君 オリジナル・サウンドトラック 其の一"
+REM COMPOSER ""
+FILE "01. 逃げ上手の若君 -メインテーマ-.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "逃げ上手の若君 -メインテーマ-"
+    PERFORMER "GEMBI"
+    REM COMPOSER ""
+    ISRC JPE302400819
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "鎌倉の平和"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400820
+    INDEX 00 06:09:25
+FILE "02. 鎌倉の平和.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 03 AUDIO
+    TITLE "タンゴで集まれ! 守護地頭!"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400821
+    INDEX 00 01:41:72
+FILE "03. タンゴで集まれ! 守護地頭!.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 04 AUDIO
+    TITLE "政所で鬼ごっこ"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400822
+    INDEX 00 01:40:30
+FILE "04. 政所で鬼ごっこ.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 05 AUDIO
+    TITLE "ド変態"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400823
+    INDEX 00 02:01:08
+FILE "05. ド変態.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 06 AUDIO
+    TITLE "性癖エグいな、、、"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400824
+    INDEX 00 02:41:16
+FILE "06. 性癖エグいな、、、.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 07 AUDIO
+    TITLE "インチキ祈祷師"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400825
+    INDEX 00 01:34:47
+FILE "07. インチキ祈祷師.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 08 AUDIO
+    TITLE "時行のテーマ～凛～"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400826
+    INDEX 00 01:27:60
+FILE "08. 時行のテーマ～凛～.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 09 AUDIO
+    TITLE "謀反の夜"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400827
+    INDEX 00 02:51:24
+FILE "09. 謀反の夜.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 10 AUDIO
+    TITLE "蹂躙されし郷里"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400828
+    INDEX 00 02:03:53
+FILE "10. 蹂躙されし郷里.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 11 AUDIO
+    TITLE "時行のテーマ～燐～"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400829
+    INDEX 00 02:26:49
+FILE "11. 時行のテーマ～燐～.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 12 AUDIO
+    TITLE "死んだらどうする ～生存本能の怪物～"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400830
+    INDEX 00 01:47:48
+FILE "12. 死んだらどうする ～生存本能の怪物～.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 13 AUDIO
+    TITLE "生きる悦びにときめいて"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400831
+    INDEX 00 02:46:00
+FILE "13. 生きる悦びにときめいて.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 14 AUDIO
+    TITLE "不穏"
+    PERFORMER "GEMBI"
+    REM COMPOSER ""
+    ISRC JPE302400832
+    INDEX 00 01:58:56
+FILE "14. 不穏.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 15 AUDIO
+    TITLE "嫌な謀略"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400833
+    INDEX 00 01:08:55
+FILE "15. 嫌な謀略.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 16 AUDIO
+    TITLE "駆け引き"
+    PERFORMER "GEMBI"
+    REM COMPOSER ""
+    ISRC JPE302400834
+    INDEX 00 01:32:52
+FILE "16. 駆け引き.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 17 AUDIO
+    TITLE "夜陰に紛れて"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400835
+    INDEX 00 01:45:30
+FILE "17. 夜陰に紛れて.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 18 AUDIO
+    TITLE "鵜の目鷹の目"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400836
+    INDEX 00 01:56:26
+FILE "18. 鵜の目鷹の目.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 19 AUDIO
+    TITLE "幕府内でキョドってはいけません"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400837
+    INDEX 00 01:51:70
+FILE "19. 幕府内でキョドってはいけません.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 20 AUDIO
+    TITLE "鬼の無言"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400838
+    INDEX 00 01:48:32
+FILE "20. 鬼の無言.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 21 AUDIO
+    TITLE "四面楚歌"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400839
+    INDEX 00 01:31:53
+FILE "21. 四面楚歌.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 22 AUDIO
+    TITLE "若君のアーメンブレイク"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400840
+    INDEX 00 02:09:13
+FILE "22. 若君のアーメンブレイク.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 23 AUDIO
+    TITLE "4 on the floor ～戦局好転～"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400841
+    INDEX 00 02:35:39
+FILE "23. 4 on the floor ～戦局好転～.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 24 AUDIO
+    TITLE "兄者の記憶"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400842
+    INDEX 00 02:22:33
+FILE "24. 兄者の記憶.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 25 AUDIO
+    TITLE "遺児たる誇り"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400843
+    INDEX 00 01:20:65
+FILE "25. 遺児たる誇り.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 26 AUDIO
+    TITLE "田楽 壱"
+    PERFORMER "GEMBI"
+    REM COMPOSER ""
+    ISRC JPE302400844
+    INDEX 00 01:50:26
+FILE "26. 田楽 壱.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 27 AUDIO
+    TITLE "諏訪大社"
+    PERFORMER "GEMBI"
+    REM COMPOSER ""
+    ISRC JPE302400845
+    INDEX 00 01:03:60
+FILE "27. 諏訪大社.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 28 AUDIO
+    TITLE "変態稚児の奇行"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400846
+    INDEX 00 01:38:24
+FILE "28. 変態稚児の奇行.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 29 AUDIO
+    TITLE "ネヲロオン"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400847
+    INDEX 00 01:35:28
+FILE "29. ネヲロオン.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 30 AUDIO
+    TITLE "神奈備 ～KAMUNABI～"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400848
+    INDEX 00 01:03:01
+FILE "30. 神奈備 ～KAMUNABI～.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 31 AUDIO
+    TITLE "闘魂としての和太鼓"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400849
+    INDEX 00 01:40:37
+FILE "31. 闘魂としての和太鼓.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 32 AUDIO
+    TITLE "民衆熱狂"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400850
+    INDEX 00 01:51:21
+FILE "32. 民衆熱狂.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 33 AUDIO
+    TITLE "いざ!"
+    PERFORMER "立山秋航"
+    REM COMPOSER ""
+    ISRC JPE302400851
+    INDEX 00 01:31:09
+FILE "33. いざ!.wav" WAVE
+    INDEX 01 00:00:00
